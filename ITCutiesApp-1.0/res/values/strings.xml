@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Programmer\'s lounge</string>
+    <string name="button_watch_video">Watch video</string>
+    <string name="loading_text">Loading</string>
+</resources>
